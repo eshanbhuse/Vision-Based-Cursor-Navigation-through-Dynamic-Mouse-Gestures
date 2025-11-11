@@ -30,12 +30,3 @@ while True:
    cv2.imshow('Hand Tracker', img)
    if cv2.waitKey(5) & 0xff == 27:
       break
-
-# DragDrop
-# rightclick
-# leftclick
-# doubleclick
-# scroll up
-# scroll down
-# Zoom in 
-# Zoom out
