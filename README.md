@@ -89,5 +89,3 @@ Make sure you have the following installed:
    python app.py
    ```
 
----
-
