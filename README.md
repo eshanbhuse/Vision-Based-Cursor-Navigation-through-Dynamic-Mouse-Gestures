@@ -5,6 +5,15 @@ It uses a webcam to track your hand movements and translate them into real-time 
 
 ---
 
+## 🧰 Tech Stack
+
+- **Python**
+- **OpenCV** – Image capture and processing
+- **MediaPipe** – Hand landmarks detection
+- **PyAutoGUI** – Controls the cursor and keyboard actions
+
+---
+
 ## 🧠 Features
 
 - **Cursor Movement** – Control the mouse pointer using hand position.
@@ -16,41 +25,6 @@ It uses a webcam to track your hand movements and translate them into real-time 
 
 ---
 
-## ⚙️ Requirements
-
-Make sure you have the following installed:
-
-- Python 3.10 or 3.11  
-- A working webcam  
-- Virtual environment (recommended)  
-
----
-
-## 📦 Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/eshanbhuse/Vision-Based-Cursor-Navigation-through-Dynamic-Mouse-Gestures.git
-   ```
-
-2. **Create and activate a virtual environment:**
-   ```bash
-   python3.11 -m venv venv
-   source venv/bin/activate    # macOS / Linux
-   venv\Scripts\activate       # Windows
-   ```
-
-3. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Run the app:**
-   ```bash
-   python app.py
-   ```
-
----
 
 ## 🖐️ Gesture Controls
 
@@ -81,21 +55,39 @@ vision_based_cursor_navigation_system/
 
 ---
 
-## 🧰 Tech Stack
 
-- **Python**
-- **OpenCV** – Image capture and processing
-- **MediaPipe** – Hand landmarks detection
-- **PyAutoGUI** – Controls the cursor and keyboard actions
+## ⚙️ Requirements
+
+Make sure you have the following installed:
+
+- Python 3.11  
+- A working webcam  
 
 ---
 
-## 🚀 Future Improvements
+## 📦 Installation
 
-- Add calibration to adjust sensitivity
-- Support for dual-hand gestures
-- On-screen gesture guide overlay
-- Integration with accessibility tools
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/eshanbhuse/Vision-Based-Cursor-Navigation-through-Dynamic-Mouse-Gestures.git
+   ```
+
+2. **Create and activate a virtual environment:**
+   ```bash
+   python3.11 -m venv venv
+   source venv/bin/activate    # macOS / Linux
+   venv\Scripts\activate       # Windows
+   ```
+
+3. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Run the app:**
+   ```bash
+   python app.py
+   ```
 
 ---
 
