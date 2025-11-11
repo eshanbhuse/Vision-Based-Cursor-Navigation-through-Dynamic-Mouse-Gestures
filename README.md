@@ -1,4 +1,4 @@
-# Vision-Based Cursor Navigation System
+# Vision-Based Cursor Navigation System through Dynamic Mouse Gestures
 
 This project enables **hands-free cursor control** using **computer vision** and **hand gesture recognition**.  
 It uses a webcam to track your hand movements and translate them into real-time cursor actions such as clicking, scrolling, zooming, and dragging.
