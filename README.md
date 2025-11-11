@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+hii
+=======
+>>>>>>> 04953eb (added project prototype)
 # README
 ## Hand Gesture Recognition for Controlling Computer's Mouse Cursor
 This is a Python project for controlling a computer's mouse cursor using hand gestures. The program recognizes hand gestures through a webcam using the Mediapipe library and controls the mouse cursor via the PyAutoGUI library.
@@ -70,3 +76,7 @@ The program currently only supports controlling a single mouse cursor, and it ma
 This project is licensed under the Apache License 2.0. The Apache License 2.0 is a permissive license that allows you to freely use, modify, distribute, and sell the software.<br>
 
 Feel free to use, modify and distribute the code as you see fit under the terms of the Apache License 2.0. For more information, please refer to the LICENSE file in the root of the project directory.
+<<<<<<< HEAD
+=======
+>>>>>>> ba1f690 (added project prototype)
+>>>>>>> 04953eb (added project prototype)
