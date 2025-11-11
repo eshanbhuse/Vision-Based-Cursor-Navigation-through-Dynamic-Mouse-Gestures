@@ -1,0 +1,52 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+ENV/
+.venv/
+
+# Mac system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Docker-related
+*.pid
+*.tar
+docker-compose.override.yml
+
+# Media files (optional)
+demo/
+*.mp4
+*.avi
+*.png
+*.jpg
+
+# IDE-specific
+.idea/
+__MACOSX/
+
+# Config or runtime files
+config.json
+
+# Ignore TensorFlow Lite or Mediapipe temp files (if any)
+*.tflite
+*.pbtxt
